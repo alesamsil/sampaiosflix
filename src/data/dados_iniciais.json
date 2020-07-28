@@ -1,0 +1,177 @@
+{
+  "categorias": [
+    {
+      "titulo": "DIY",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Do It Youself",
+        "url": "https://www.youtube.com/watch?v=ouQ9gZe8RK0&list=PLXjUpxf3B7dwXsyIvlr1lK3Jei_m4bex0"
+      },
+      "videos": [
+        {
+          "titulo": "Dispenser para álcool em gel #DIY",
+          "url": "https://www.youtube.com/watch?=R8QqnYT0fW0"
+        },
+        {
+          "titulo": "Luminária Relíquias da Morte de Harry Potter",
+          "url": "https://youtu.be/Q13wMS_DAyk"
+        },
+        {
+          "titulo": "Porta Retrato Feito com Sobras de Madeiras",
+          "url": "https://youtu.be/3NpW1caaqjM"
+        },
+        {
+          "titulo": "Decoração Econômica Com Fita Isolante",
+          "url": "https://youtu.be/P7D6Pe6DkAQ"
+        },
+        {
+          "titulo": "Moldura Para Diversos Fins",
+          "url": "https://youtu.be/sJQPmts-DQw"
+        },
+        {
+          "titulo": "Árvore de Natal de Papelão Estilo Pista do Mario Kart",
+          "url": "https://youtu.be/cEU-JdrhCBc"
+        },
+        {
+          "titulo": "Enfeites da Árvore de Natal de Papelão do Mario Kart",
+          "url": "https://youtu.be/OAGXNQXSdks"
+        },
+        {
+          "titulo": "Como Emoldurar Tecidos",
+          "url": "https://youtu.be/DUZWoCwV7vc"
+        }        
+      ]
+    },
+    {
+      "titulo": "Reciclagem",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Reduzir, Reciclar e Reutilzar",
+        "url": "https://www.youtube.com/watch?v=EGsFZ9W_QXo&list=PLXjUpxf3B7dzuf6iVbMdEYYIcAakB0v7w&index=5"
+      },
+      "videos": [
+        {
+          "titulo": "Porta Incenso Reciclado",
+          "url": "https://youtu.be/EGsFZ9W_QXo"
+        },
+        {
+          "titulo": "Bolinha de Natal Feita com Sobras de Feltro",
+          "url": "https://youtu.be/jcMx4E65kFo"
+        },
+        {
+          "titulo": "Porta Treco Reciclado Com ou Sem Tampa",
+          "url": "https://youtu.be/-AbHt0bK9SI"
+        },
+        {
+          "titulo": "Enfeites da Árvore de Natal de Papelão do Mario Kart",
+          "url": "https://youtu.be/OAGXNQXSdks"
+        }, 
+        {
+          "titulo": "DIY Luminária Relíquias da Morte Harry Potter",
+          "url": "https://youtu.be/Q13wMS_DAyk"
+        }
+      ]
+    },
+    {
+      "titulo": "Customização",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Customização de Roupas",
+        "url": "https://www.youtube.com/watch?v=KxJ5oMIb83c&list=PLXjUpxf3B7dxUWNxyKPxEe9xwP1amygRW&index=8"
+      },
+      "videos": [
+        {
+          "titulo": "Customização de Casaco com a Técnica do Tie Dye",
+          "url": "https://youtu.be/KxJ5oMIb83c"
+        },
+        {
+          "titulo": "Estampa de Feltro",
+          "url": "https://youtu.be/TMiAGmu-NXc"
+        },
+        {
+          "titulo": "Customização em Tie Dye Rainbow [Método Frio]",
+          "url": "https://youtu.be/b1G7LOHsH6E"
+        },
+        {
+          "titulo": "Como Tingir Tecido [Método Quente]",
+          "url": "https://youtu.be/O1dpaSQkYJk"
+        },
+        {
+          "titulo": "Como Customizar Tênis Gastando Pouco",
+          "url": "https://youtu.be/PKdH0bT4Bug"
+        }
+      ]
+    },
+    {
+      "titulo": "FAQ",
+      "cor": "orange",
+      "link_extra": {
+        "text": " Frequently Asked Questions",
+        "url": "https://www.youtube.com/watch?v=K7uDWlw_4jQ&list=PLXjUpxf3B7dzxKo4N6qKgbAod2yJW2Yl9"
+      },
+      "videos": [
+        {
+          "titulo": "7 Coisas Que Você Precisa Saber Para Montar Sua Arara De PVC",
+          "url": "https://youtu.be/K7uDWlw_4jQ"
+        },
+        {
+          "titulo": "Tingir Tecidos: Prós e Contras",
+          "url": "https://youtu.be/LUZBT5TdQxY"
+        },
+        {
+          "titulo": "Como Pintar Vidro: Método Simples",
+          "url": "https://youtu.be/XiZk9CwaD0M"
+        },
+        {
+          "titulo": "Dúvidas Sobre Molde de Radiografia Velha e de Acetato",
+          "url": "https://youtu.be/P67nqT-gyqM"
+        }
+      ]
+    },
+    {
+      "titulo": "Entretenimento",
+      "cor": "red",
+      "link_extra": {
+        "text": "Campus Party",
+        "url": "https://www.youtube.com/watch?v=_NQC-5liOwo&list=PLXjUpxf3B7dwpfXFIDA2wHByBG2-F0A27"
+      },
+      "videos": [
+        {
+          "titulo": "Campus Party - Dicas para Youtubers",
+          "url": "https://youtu.be/_NQC-5liOwo"
+        },
+        {
+          "titulo": "Campus Party Brasil 9 [#CPBR9] Eu fuiiiiiiiiii",
+          "url": "https://youtu.be/KSEZSsGiU5g"
+        },
+        {
+          "titulo": "Campus Party - Por que você não pode perder! #CPBR10",
+          "url": "https://youtu.be/9PLPgKZBcok"
+        }
+      ]
+    },
+    {
+      "titulo": "Origami",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Dobraduras",
+        "url": "https://www.youtube.com/watch?v=pV-Loc2bWog&list=PLXjUpxf3B7dzouwKYAa0Ux4PoMD3mvO1U"
+      },
+      "videos": [
+        {
+          "titulo": "Como fazer Tsuru",
+          "url": "https://youtu.be/pV-Loc2bWog"
+        },
+        {
+          "titulo": "Como fazer e montar uma kusudama",
+          "url": "https://youtu.be/5lgD5JbUrdg"
+        },
+        {
+          "titulo": "Como Montar um Mobile com Tsuru e a Kusudama",
+          "url": "https://youtu.be/8883SApCOrI"
+        }
+      ]
+    }
+  ]
+}
