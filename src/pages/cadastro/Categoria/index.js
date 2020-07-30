@@ -37,7 +37,7 @@ function CadastroCategoria() {
           ...resposta,
         ]);
       });
-    
+
     // setTimeout (() => {
     //   setCategorias ([
     //     ...categorias,
